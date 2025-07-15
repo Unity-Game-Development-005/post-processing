@@ -419,7 +419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_IsGlobal: 0
-  priority: 0
+  priority: 5
   blendDistance: 1
   weight: 1
   sharedProfile: {fileID: 11400000, guid: 1bbe70f1dcdae02468558529e2acb951, type: 2}
@@ -442,8 +442,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 10.976082, y: 4.5049534, z: 1}
-  m_Center: {x: -1.538127, y: 1.7524772, z: 0}
+  m_Size: {x: 7.100622, y: 4.5049534, z: 6.68174}
+  m_Center: {x: 0.39960277, y: 1.7524772, z: 2.84087}
 --- !u!4 &550511275
 Transform:
   m_ObjectHideFlags: 0
